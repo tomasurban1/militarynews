@@ -1,5 +1,5 @@
 # militarynews
-militarynews
+
 In the dynamic landscape of modern warfare, ground forces play a pivotal role in ensuring the security and defense of nations. The backbone of any land-based military operation lies in its armored vehicles, weaponry, and cutting-edge technology. In this article, we delve into the intricacies of infantry fighting vehicles, explore the equipment used by the U.S. and Russian ground forces, and ponder the future of ground combat vehicles.
 
 Infantry Fighting Vehicles (IFVs):
